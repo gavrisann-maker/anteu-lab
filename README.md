@@ -6,7 +6,7 @@ Este un prototip de învățare, pornit de la [Carta albă ANTEU 2027](https://a
 
 **Autor:** David Găvrișan, student în anul I la Relații Internaționale, Facultatea de Studii Europene, UBB Cluj.
 
-**Demo:** _(adaugă aici linkul Netlify)_
+**Demo:** https://democratie-lichida.netlify.app/
 
 ## Ce poți face
 
